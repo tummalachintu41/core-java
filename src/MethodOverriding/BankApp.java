@@ -1,4 +1,4 @@
-package MethodOverloding;
+package MethodOverriding;
 
 public class BankApp {
     public static void main(String[] args) {

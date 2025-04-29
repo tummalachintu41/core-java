@@ -1,4 +1,4 @@
-package MethodOverloding;
+package MethodOverriding;
 
 public class Banking {
     public double CalculeteInterest(double ammount){

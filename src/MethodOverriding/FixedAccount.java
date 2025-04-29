@@ -1,4 +1,4 @@
-package MethodOverloding;
+package MethodOverriding;
 
 public class FixedAccount extends Banking{
     @Override

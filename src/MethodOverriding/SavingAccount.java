@@ -1,4 +1,4 @@
-package MethodOverloding;
+package MethodOverriding;
 
 public class SavingAccount extends Banking{
 

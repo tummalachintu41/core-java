@@ -1,4 +1,4 @@
-package MethodOverloding;
+package MethodOverriding;
 
 public class Calculater {
     public int add(int n1,int n2){
